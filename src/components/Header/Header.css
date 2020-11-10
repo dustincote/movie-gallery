@@ -1,0 +1,16 @@
+header {
+    color: white;
+    padding: 2px;
+    background: transparent;
+    width: 100%;
+    
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.home-button{
+    display:flex;
+
+}
